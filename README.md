@@ -24,7 +24,10 @@ Instructions for dancing:
 * That was tiring
 * That's enough!
 
-    Code block
-    Paste the code here.
 
-Back to normal text.
+        This is a code block
+          Another line of code
+          Another line of code
+
+
+
