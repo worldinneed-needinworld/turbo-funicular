@@ -7,11 +7,11 @@ This is a sandbox for technical writing.
 
 By the way, here is text in **bold**.
 
-<p>On the other hand, I'm not a big fan of *italics*.</p>
+On the other hand, I'm not a big fan of *italics*.
 
-<p>And here is a combination of both ***bold and italics***.</p>
+And here is a combination of both ***bold and italics***.
 
-<p>To quote Hamlet</p>
+To quote Hamlet
 
-><p>"To be or not to be, that is the question."</p>
+>"To be or not to be, that is the question."
 
