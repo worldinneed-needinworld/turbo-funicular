@@ -9,9 +9,9 @@ By the way, here is text in **bold**.
 
 On the other hand, I'm not a big fan of *italics*.
 
-And here is a combination of both ***bold and italics***.
+And here is a combination of both ***bold and italics***. I am increasing the length of this sentence. How long can it go?
 
-To quote Hamlet
+To quote Hamlet:
 
 >"To be or not to be, that is the question."
 
