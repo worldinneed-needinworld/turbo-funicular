@@ -15,3 +15,16 @@ To quote Hamlet:
 
 >"To be or not to be, that is the question."
 
+Instructions for dancing:
+1. Jump down
+2. Turnaround
+3. Pick a bale of cotton
+
+* That was fun
+* That was tiring
+* That's enough!
+
+  Code block
+  Paste the code here.
+
+Back to normal text.
