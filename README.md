@@ -3,7 +3,7 @@ This is a sandbox for technical writing.
 
 ## Biography
 
-<p>My name is Eric Wong. I am 45 years old. I live in Tustin, CA, with my wife and two kids.</p>
+<p>My name is Eric Wong. Haha. I am 45 years old. I live in Tustin, CA, with my wife and two kids.</p>
 
 By the way, here is text in **bold**.
 
